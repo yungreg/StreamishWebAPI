@@ -33,3 +33,6 @@ C:\Users\rlumr\workspace\csharp\book-3-WebAPI\Streamish\Streamish\obj\Debug\net5
 C:\Users\rlumr\workspace\csharp\book-3-WebAPI\Streamish\Streamish\obj\Debug\net5.0\Streamish.pdb
 C:\Users\rlumr\workspace\csharp\book-3-WebAPI\Streamish\Streamish\obj\Debug\net5.0\Streamish.genruntimeconfig.cache
 C:\Users\rlumr\workspace\csharp\book-3-WebAPI\Streamish\Streamish\obj\Debug\net5.0\ref\Streamish.dll
+C:\Users\rlumr\workspace\csharp\book-3-WebAPI\Streamish\Streamish\bin\Debug\net5.0\client\package-lock.json
+C:\Users\rlumr\workspace\csharp\book-3-WebAPI\Streamish\Streamish\bin\Debug\net5.0\client\package.json
+C:\Users\rlumr\workspace\csharp\book-3-WebAPI\Streamish\Streamish\bin\Debug\net5.0\client\public\manifest.json
